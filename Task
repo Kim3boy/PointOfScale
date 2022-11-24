@@ -1,0 +1,42 @@
+#include<stdio.h>
+void main(void)
+int x,y,q ;
+float price, VAT, total amount,total cost, amount paid, change ;
+char  ;
+{
+  {
+    printf('enter item',x);
+    scanf('%d',&x);
+    printf('enter quantity');
+   }
+   {
+     printf('enter item',y);
+     scanf('%d',&y);
+     printf('enter quantity',q);
+     scanf('%d',); 
+    } 
+    
+ //calculating total amount
+ (total amount(X,Y)=price of item(x/y)+VAT)q
+    {
+      printf('price of item(x/y)+VAT)q ')
+      printf('(%d+(16% of %d))%d',&X);
+      printf('(%d+(16% of %d))%d',&Y);
+    }
+ //calculating the total cost   
+    add total amounts of all items
+    {
+      printf('X+Y');
+      printf('%d+%d',&total cost);
+    }
+ //calculating change
+ (change=amount paid-total cost)
+    {
+      printf('enter amount paid ');
+     } 
+     {
+       printf('amount paid-total cost');
+       printf('%d-%f',&change);
+     }
+}     
+     return 0
